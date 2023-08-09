@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PavithraDevi2001
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning everything
-- �
-- �
+- 👋 Hi, I’m Pavithra Devi
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Full Stack Web Development
 
 <!---
 PavithraDevi2001/PavithraDevi2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
